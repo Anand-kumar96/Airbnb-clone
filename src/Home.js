@@ -123,7 +123,7 @@ function Home() {
         <Card
             src="https://a0.muscache.com/im/pictures/ce2b07d8-ed1c-467a-9ee2-4771f15cebff.jpg?im_w=720"
             title="Spend the night on luxury yacht in Yerseke Harbour in Netherlands."
-            description="One of our goals is to make guests enjoy themselves as much as possible ."
+            description="One of our goals is to make guests enjoy themselves as much as possible"
             price="₹22,422/night"
         />
         </div>
