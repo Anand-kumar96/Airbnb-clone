@@ -1,0 +1,9 @@
+.home__section {
+    display: flex;
+  }
+  .section1{
+    padding: 30px 30px 8px 30px;
+  }
+  .section2{
+    padding: 8px 30px 30px 30px;
+  }
